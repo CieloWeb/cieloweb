@@ -9,7 +9,7 @@ Thumbs.db
 # Ignore Mac/Linux hidden files
 ._*
 
-# Ignore node/npm build files (in case you later include assets/scripts)
+# Ignore node/npm build files
 node_modules/
 .next/
 .env
