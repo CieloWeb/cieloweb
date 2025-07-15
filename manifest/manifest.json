@@ -1,0 +1,6 @@
+{
+  "name": "CieloWeb",
+  "short_name": "CieloWeb",
+  "start_url": "/",
+  "display": "standalone"
+}
