@@ -1,6 +1,76 @@
 {
-  "name": "CieloWeb",
+  "id": "/",
+  "name": "CieloWeb – Tools for a Better Web",
   "short_name": "CieloWeb",
+  "description": "CieloWeb creates privacy-first software, browser extensions, and productivity tools for a faster, safer web.",
   "start_url": "/",
-  "display": "standalone"
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "dir": "ltr",
+  "lang": "en",
+  "orientation": "portrait",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable_icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Note",
+      "short_name": "New Note",
+      "description": "Create a new note in CieloNotes",
+      "url": "/tools/cielonotes?action=new",
+      "icons": [{ "src": "/shortcut-note.png", "sizes": "96x96", "type": "image/png" }]
+    },
+    {
+      "name": "Daily Planner",
+      "short_name": "Planner",
+      "description": "Open the Daily Focus Planner",
+      "url": "/tools/daily-focus-planner",
+      "icons": [{ "src": "/shortcut-planner.png", "sizes": "96x96", "type": "image/png" }]
+    },
+    {
+      "name": "Secure Password",
+      "short_name": "Password",
+      "description": "Generate a new secure password",
+      "url": "/tools/secure-password-generator",
+      "icons": [{ "src": "/shortcut-password.png", "sizes": "96x96", "type": "image/png" }]
+    }
+  ],
+  "share_target": {
+    "action": "/tools/cielonotes",
+    "method": "GET",
+    "enctype": "application/x-www-form-urlencoded",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
 }
