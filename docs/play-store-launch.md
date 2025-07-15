@@ -13,17 +13,7 @@ We wanted to give users:
 - Easy access to tools from the home screen
 - Automatic updates via the Play Store
 - A fast, tracker-free alternative to bloated apps
-
----
-
-## 🧩 Tech Stack Overview
-
-- **Framework:** Next.js
-- **Hosting:** Vercel (Frontend), Firebase (Backend Studio + Hosting)
-- **App Shell:** PWA (manifest, service worker)
-- **Android Wrapper:** Trusted Web Activity (TWA)
-- **Build Tool:** [PWABuilder](https://www.pwabuilder.com/)
-
+  
 ---
 
 ## 🛠 Steps to Publish on Play Store
@@ -61,6 +51,7 @@ We wanted to give users:
 ## 📱 Get the App (Coming Soon)
 
 Play Store Link: _Coming soon..._
+
 Meanwhile you can download the apk at: https://drive.google.com/file/d/1alfDVmqdvOvvNiiDX5Xvlx1Ldx-VN9ix/view?usp=sharing
 ---
 
