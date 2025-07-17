@@ -1,49 +1,128 @@
-# CieloWeb 🌐
+# 🌐 CieloWeb – Privacy-First Web Tools & Extensions
 
-**Privacy-first web tools and browser extensions** — no trackers, no nonsense.  
-Built to make the web cleaner, faster, and more useful.
+**CieloWeb** offers a powerful suite of 40+ privacy-focused tools, extensions, and apps designed for creators, freelancers, developers, and mindful users.
 
-## 🔧 What is CieloWeb?
+✅ No sign-up  
+✅ No tracking  
+✅ No nonsense  
 
-CieloWeb is a collection of 40+ privacy-first tools, browser extensions, and productivity apps.  
-No sign-up. No cookies. No tracking. Just useful tools for creators, freelancers, developers, and everyday users.
----
-
-## 🛠 Featured Tools
-
-- [Fix This Page](https://cieloweb.com/tools/fix-this-page-extension) – Adblock bypass + cleaner extension
-- [CieloNotes](https://cieloweb.com/tools/cielonotes) – Offline note-taking
-- [Reel Replacement Feed](https://cieloweb.com/tools/reel-replacement-feed) – Mindful scrolling
-- [Secure Password Generator](https://cieloweb.com/tools/secure-password-generator) – Offline password maker
-- [PDF Compressor](https://cieloweb.com/tools/minimal-pdf-compressor) – Client-side, no uploads
-- [Alt Text Generator](https://cieloweb.com/tools/alt-text-generator) – AI-generated alt text for images
+All tools are lightweight, offline-capable, and focused on speed and utility.
 
 ---
 
-## 📱 Android App (Play Store)
+## 🚀 What Is CieloWeb?
 
-CieloWeb is installable as a PWA and coming soon to the **Google Play Store** as a Trusted Web Activity (TWA).
+**CieloWeb** is a digital toolkit and productivity suite that helps you:
+
+- Clean up and declutter annoying websites
+- Boost your workflow with browser-based utilities
+- Improve SEO, privacy, and content performance
+- Create and automate small tasks with zero setup
+
+Built with a **privacy-first** mindset — no Google Analytics, no third-party cookies, and no data collection.
+
+---
+
+## 🧰 Featured Tools & Extensions
+
+Here are some of the most popular tools in the CieloWeb toolbox:
+
+| Tool | Description |
+|------|-------------|
+| [🔧 Fix This Page](https://cieloweb.com/tools/fix-this-page-extension) | Browser extension to bypass adblock walls, popups, and clean annoying overlays |
+| [📝 CieloNotes](https://cieloweb.com/tools/cielonotes) | Minimal offline-first note-taking app |
+| [💡 Alt Text Generator](https://cieloweb.com/tools/alt-text-generator) | AI-powered tool to generate alt text for your images |
+| [🔐 Secure Password Generator](https://cieloweb.com/tools/secure-password-generator) | Offline tool to generate secure, memorable passwords |
+| [📄 Minimal PDF Compressor](https://cieloweb.com/tools/minimal-pdf-compressor) | Compress PDFs 100% client-side — no uploads |
+| [🧠 Reel Replacement Feed](https://cieloweb.com/tools/reel-replacement-feed) | Mindful scrolling app that replaces social media doomscrolling |
+
+> 💡 Full list: [https://cieloweb.com/tools](https://cieloweb.com/tools)
+
+---
+
+## 📦 Pro Feature: SEO Site Pack
+
+**Upgrade to Pro** to instantly download a `.zip` with:
+
+- `meta tags` generator
+- `manifest.json` + favicon builder
+- `robots.txt` + sitemap
+- JSON-LD schemas
+
+🚀 One-click bootstrap for SEO + site structure.  
+[Coming Soon to Pro](https://cieloweb.com)
+
+---
+
+## 📲 Android App
+
+**CieloWeb for Android**  
+Soon available on the **Google Play Store** as a PWA (via Trusted Web Activity).
+
+- 🌓 Dark mode
+- 🔒 No permissions
+- 📡 Offline support
+- 🧠 Streak tracking (for productivity tools)
+
+---
+
+## 🧩 Upcoming: WordPress Plugin
+
+We’re working on a **WordPress plugin** that brings essential tools like:
+
+- Meta Tag Builder
+- Favicon + manifest.json
+- Robots.txt + sitemap.xml
+- JSON-LD Generator (LocalBusiness, Website, etc.)
+
+Right into the WordPress admin panel — fast, privacy-friendly, and no external requests.
+
+---
+
+## 🛡️ Why CieloWeb?
+
+- 🇦🇹 Built in Austria
+- 💡 Independent indie project
+- 🔐 100% GDPR compliant
+- 💻 Fast-loading, no bloat
+- 🆓 Freemium model — most tools free
+
+---
+
+## 🤝 Partner With Us
+
+We're open to:
+
+- **SEO and web agencies** embedding our tools
+- **Browser extension partnerships**
+- **Educational licensing** for privacy-focused schools and institutions
+- **Sponsorships and open-source contributors**
+
+👉 Email us: [info@cieloweb.com](mailto:info@cieloweb.com)
+
+---
+
+## 🧠 Contribute
+
+We love ideas, issues, and feedback.
+
+While the **source code is private**, this repository exists for:
+
+- Community discussion
+- Feature proposals
+- Documentation & public assets
+
+You can still contribute via:
+- Bug reports
+- Feature suggestions
+- Content localization (coming soon)
 
 ---
 
 ## 📄 License
 
-MIT License – [LICENSE](LICENSE)
-
----
-
-## 🙌 Contribute
-
-This project is still evolving. Ideas, feedback, and contributions welcome!
+MIT License – see [`LICENSE`](LICENSE)
 
 ---
 
 Made with ❤️ in Austria by [Fitim Ramadani](https://cieloweb.com)
-
-
-## 🔐 Source Code
-
-The source code for CieloWeb is private.  
-This repository exists to provide information, screenshots, links, and public documentation.
-
-If you're interested in partnership, listing, or integration — feel free to reach out: [info@cieloweb.com](mailto:info@cieloweb.com)
