@@ -40,24 +40,11 @@ Here are some of the most popular tools in the CieloWeb toolbox:
 
 ---
 
-## 📦 Pro Feature: SEO Site Pack
-
-**Upgrade to Pro** to instantly download a `.zip` with:
-
-- `meta tags` generator
-- `manifest.json` + favicon builder
-- `robots.txt` + sitemap
-- JSON-LD schemas
-
-🚀 One-click bootstrap for SEO + site structure.  
-[Coming Soon to Pro](https://cieloweb.com)
-
----
-
 ## 📲 Android App
 
 **CieloWeb for Android**  
-Soon available on the **Google Play Store** as a PWA (via Trusted Web Activity).
+Now available on the **Google Play Store** as a PWA (via Trusted Web Activity). 
+https://play.google.com/store/apps/details?id=com.cieloweb.android
 
 - 🌓 Dark mode
 - 🔒 No permissions
@@ -85,7 +72,7 @@ Right into the WordPress admin panel — fast, privacy-friendly, and no external
 - 💡 Independent indie project
 - 🔐 100% GDPR compliant
 - 💻 Fast-loading, no bloat
-- 🆓 Freemium model — most tools free
+- 🆓 Freemium model — All tools free
 
 ---
 
