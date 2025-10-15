@@ -1,115 +1,128 @@
-# 🌐 CieloWeb – Privacy-First Web Tools & Extensions
+# 🌐 CieloWeb — 70+ Privacy-First Web Tools, Apps & Extensions
 
-**CieloWeb** offers a powerful suite of 40+ privacy-focused tools, extensions, and apps designed for creators, freelancers, developers, and mindful users.
+**CieloWeb** is an independent suite of **70+ privacy-focused web tools, extensions, and apps** built for creators, developers, freelancers, and privacy-minded users.
 
 ✅ No sign-up  
 ✅ No tracking  
-✅ No nonsense  
+✅ No telemetry  
+✅ 100% client-side  
 
-All tools are lightweight, offline-capable, and focused on speed and utility.
+All tools are lightweight, offline-capable, and built for **speed, focus, and privacy**.
 
 ---
 
 ## 🚀 What Is CieloWeb?
 
-**CieloWeb** is a digital toolkit and productivity suite that helps you:
+**CieloWeb** is your all-in-one digital workspace — a growing ecosystem of browser-based utilities and productivity apps.  
 
-- Clean up and declutter annoying websites
-- Boost your workflow with browser-based utilities
-- Improve SEO, privacy, and content performance
-- Create and automate small tasks with zero setup
+Use it to:  
+- 🧹 Clean and declutter annoying websites  
+- ⚙️ Simplify daily workflows and automate small tasks  
+- 🔒 Enhance privacy and digital wellbeing  
+- 📈 Improve SEO, content, and performance  
+- 💼 Boost productivity — all without sign-ups or tracking  
 
-Built with a **privacy-first** mindset — no Google Analytics, no third-party cookies, and no data collection.
+> Built entirely with a **privacy-first architecture** — no Google Analytics, cookies, or cloud dependencies.
 
 ---
 
-## 🧰 Featured Tools & Extensions
+## 🧰 Featured Tools
 
-Here are some of the most popular tools in the CieloWeb toolbox:
+Here’s a sample from the CieloWeb toolbox:
 
 | Tool | Description |
 |------|-------------|
-| [🔧 Fix This Page](https://cieloweb.com/tools/fix-this-page-extension) | Browser extension to bypass adblock walls, popups, and clean annoying overlays |
-| [📝 CieloNotes](https://cieloweb.com/tools/cielonotes) | Minimal offline-first note-taking app |
-| [💡 Alt Text Generator](https://cieloweb.com/tools/alt-text-generator) | AI-powered tool to generate alt text for your images |
-| [🔐 Secure Password Generator](https://cieloweb.com/tools/secure-password-generator) | Offline tool to generate secure, memorable passwords |
-| [📄 Minimal PDF Compressor](https://cieloweb.com/tools/minimal-pdf-compressor) | Compress PDFs 100% client-side — no uploads |
-| [🧠 Reel Replacement Feed](https://cieloweb.com/tools/reel-replacement-feed) | Mindful scrolling app that replaces social media doomscrolling |
+| [🔧 Fix This Page](https://cieloweb.com/tools/fix-this-page-extension) | Bypass adblock walls, popups, overlays — clean any page instantly |
+| [📸 M3U Magic](https://cieloweb.com/m3u-magic) | View, edit, and play M3U playlists directly in your browser |
+| [🔐 Secure Password Generator](https://cieloweb.com/tools/secure-password-generator) | Create secure, memorable passwords offline |
+| [🧾 PDF Compressor](https://cieloweb.com/tools/minimal-pdf-compressor) | Compress PDFs 100% locally — no uploads |
+| [🧠 Reel Replacement Feed](https://cieloweb.com/tools/reel-replacement-feed) | Replace social media doomscrolling with mindful content |
+| [🗂️ File Share (P2P)](https://share.cieloweb.com) | Send files privately, device-to-device, no server upload |
+| [🔢 Authenticator](https://authenticator.cieloweb.com) | Offline Google Authenticator alternative — no cloud, no sync |
 
-> 💡 Full list: [https://cieloweb.com/tools](https://cieloweb.com/tools)
+> 🌐 Explore all tools: [**https://cieloweb.com/tools**](https://cieloweb.com/tools)
 
 ---
 
-## 📲 Android App
+## 📲 Android App (PWA)
 
 **CieloWeb for Android**  
-Now available on the **Google Play Store** as a PWA (via Trusted Web Activity). 
-https://play.google.com/store/apps/details?id=com.cieloweb.android
+Available on the **Google Play Store** as a Trusted Web Activity (PWA).  
+[➡️ Download on Google Play](https://play.google.com/store/apps/details?id=com.cieloweb.android)
 
-- 🌓 Dark mode
-- 🔒 No permissions
-- 📡 Offline support
-- 🧠 Streak tracking (for productivity tools)
+Features:
+- 🌓 Dark Mode  
+- 🔒 No Permissions  
+- 📡 Offline Support  
+- ⚡ Instant Launch  
+- 🧠 Streak Tracking (for productivity tools)
 
 ---
 
-## 🧩 Upcoming: WordPress Plugin
+## 🧩 Subdomains & Ecosystem
 
-We’re working on a **WordPress plugin** that brings essential tools like:
+| Domain | Purpose |
+|--------|----------|
+| **[cieloweb.com](https://cieloweb.com)** | Main platform — tools, extensions, and AI utilities |
+| **[tools.cieloweb.com](https://tools.cieloweb.com)** | Dedicated hub for all 70+ web tools |
+| **[share.cieloweb.com](https://share.cieloweb.com)** | File sharing with no limits — 100% peer-to-peer |
+| **[authenticator.cieloweb.com](https://authenticator.cieloweb.com)** | Offline two-factor authenticator |
+| *(Planned)* **chat.cieloweb.com** | AI chat assistant with local-first design |
 
-- Meta Tag Builder
-- Favicon + manifest.json
-- Robots.txt + sitemap.xml
-- JSON-LD Generator (LocalBusiness, Website, etc.)
+---
 
-Right into the WordPress admin panel — fast, privacy-friendly, and no external requests.
+## 🧩 Coming Soon
+
+- 🧱 **WordPress Plugin Suite**  
+  - Meta Tag Builder  
+  - Robots.txt & Sitemap Generator  
+  - JSON-LD & Schema Builder  
+  - Favicon + manifest.json Builder  
+
+- 🧑‍💻 **Developer Tools Expansion**  
+  - Code Minifiers  
+  - Image Optimization  
+  - Performance Analyzer  
 
 ---
 
 ## 🛡️ Why CieloWeb?
 
-- 🇦🇹 Built in Austria
-- 💡 Independent indie project
-- 🔐 100% GDPR compliant
-- 💻 Fast-loading, no bloat
-- 🆓 Freemium model — All tools free
+- 🇦🇹 Built in Austria  
+- 💡 Indie, independent project  
+- 🔐 100% GDPR compliant  
+- ⚙️ Offline-first architecture  
+- 💻 Fast, modern, and open  
+- 🆓 Freemium model — all tools free  
 
 ---
 
-## 🤝 Partner With Us
+## 🤝 Partner or Collaborate
 
-We're open to:
+We’re open to:
+- **Agencies** embedding our tools  
+- **Browser extension** collaborations  
+- **Educational institutions** promoting privacy  
+- **Sponsorships** and open-source support  
 
-- **SEO and web agencies** embedding our tools
-- **Browser extension partnerships**
-- **Educational licensing** for privacy-focused schools and institutions
-- **Sponsorships and open-source contributors**
-
-👉 Email us: [info@cieloweb.com](mailto:info@cieloweb.com)
+📧 Email: [info@cieloweb.com](mailto:info@cieloweb.com)
 
 ---
 
 ## 🧠 Contribute
 
-We love ideas, issues, and feedback.
-
-While the **source code is private**, this repository exists for:
-
-- Community discussion
-- Feature proposals
-- Documentation & public assets
-
-You can still contribute via:
-- Bug reports
-- Feature suggestions
-- Content localization (coming soon)
+While the **core source code is private**, this repo is for:
+- 💬 Community discussions  
+- 🧩 Feature requests  
+- 🪲 Bug reports  
+- 🌍 Localization (coming soon)
 
 ---
 
 ## 📄 License
 
-MIT License – see [`LICENSE`](LICENSE)
+All Rights Reserved License — see [`LICENSE`](LICENSE)
 
 ---
 
-Made with ❤️ in Austria by [Fitim Ramadani](https://cieloweb.com)
+Made with ❤️ in **Austria** by [Fitim Ramadani](https://cieloweb.com)
