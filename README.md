@@ -121,7 +121,7 @@ While the **core source code is private**, this repo is for:
 
 ## 📄 License
 
-All Rights Reserved License — see [`LICENSE`](LICENSE)
+All Rights Reserved. Unauthorized copying, modification, or redistribution is prohibited.
 
 ---
 
